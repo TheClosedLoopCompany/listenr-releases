@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Listenr</title>
-        <link>https://listenr.live</link>
-        <description>Listenr app updates</description>
-        <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 05 Aug 2026 15:19:57 +0200</pubDate>
+            <link>https://listenr.live</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/TheClosedLoopCompany/listenr-releases/releases/download/v0.1.0/Listenr-0.1.0.zip" length="10832760" type="application/octet-stream" sparkle:edSignature="+4KC2SMQ/Bz/2dMO2ro2YLMeZYPvae041ZD4JQ9aLBXGOAtm26NWQJuvXlf5mBifasxJt2gORoOYjDTqbS6mDw=="/>
+        </item>
     </channel>
 </rss>
