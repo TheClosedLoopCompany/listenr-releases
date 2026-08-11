@@ -3,6 +3,16 @@
     <channel>
         <title>Listenr</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Tue, 11 Aug 2026 02:01:45 +0200</pubDate>
+            <link>https://listenr.live</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/TheClosedLoopCompany/listenr-releases/releases/download/v0.1.4/Listenr-0.1.4.zip" length="7697305" type="application/octet-stream" sparkle:edSignature="Oe6F24cTxaEriFbSc+gSY9XIPIqzZxWW988MN5jUoEMzPJICGT4yvCcmRYNXxNtVR6ty3Gt5d4SwirksqBv9Dg=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Tue, 11 Aug 2026 01:09:31 +0200</pubDate>
             <link>https://listenr.live</link>
