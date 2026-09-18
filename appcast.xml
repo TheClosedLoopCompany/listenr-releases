@@ -3,6 +3,16 @@
     <channel>
         <title>Listenr</title>
         <item>
+            <title>0.10.0</title>
+            <pubDate>Fri, 18 Sep 2026 04:39:58 +0200</pubDate>
+            <link>https://listenr.live</link>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/TheClosedLoopCompany/listenr-releases/releases/download/v0.10.0/Listenr-0.10.0.zip" length="54735014" type="application/octet-stream" sparkle:edSignature="zy6jjioM7mZoGhKmwoa+oVIw0QHMg+bls9oD6CgLJ50NkUznl7MYzQBbTptoq15XsjDZrMagYkmpnE+KE6WZAg=="/>
+        </item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Thu, 03 Sep 2026 20:06:26 +0200</pubDate>
             <link>https://listenr.live</link>
@@ -41,16 +51,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/TheClosedLoopCompany/listenr-releases/releases/download/v0.7.0/Listenr-0.7.0.zip" length="22210916" type="application/octet-stream" sparkle:edSignature="281UyfcoxWPDoH8w7Fu3k0EdMUMgwSx0qZHXFAYXmwCXzHnhAUsi64S1FsLbHQ8gxzdo/tahvRtGPvOqlIcxBQ=="/>
-        </item>
-        <item>
-            <title>0.6.2</title>
-            <pubDate>Mon, 31 Aug 2026 18:12:27 +0200</pubDate>
-            <link>https://listenr.live</link>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/TheClosedLoopCompany/listenr-releases/releases/download/v0.6.2/Listenr-0.6.2.zip" length="21172732" type="application/octet-stream" sparkle:edSignature="/gNm0LJ41rjQV8nXVx0pv4qWZggcJStczzIj2w418HCE7+5rUgK1O0GsMa3g8m0NmY+4KFrZarW29FmGbMTQCg=="/>
         </item>
     </channel>
 </rss>
