@@ -3,6 +3,16 @@
     <channel>
         <title>Listenr</title>
         <item>
+            <title>0.16.2</title>
+            <pubDate>Wed, 07 Oct 2026 18:39:11 +0200</pubDate>
+            <link>https://listenr.live</link>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.16.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/TheClosedLoopCompany/listenr-releases/releases/download/v0.16.2/Listenr-0.16.2.zip" length="60909004" type="application/octet-stream" sparkle:edSignature="LEelqOFScu37zgSzt4gS/KuwuBPK0yDHy2HWBlZVq+bwlZ1ZYX9vUJMUoFuJQiOyJSHlo6ioGinIjwbi6Wl7AA=="/>
+        </item>
+        <item>
             <title>0.16.1</title>
             <pubDate>Mon, 05 Oct 2026 17:05:52 +0200</pubDate>
             <link>https://listenr.live</link>
@@ -41,16 +51,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/TheClosedLoopCompany/listenr-releases/releases/download/v0.15.0/Listenr-0.15.0.zip" length="58137284" type="application/octet-stream" sparkle:edSignature="Xs+lKYudKXwOKTdzF+aVTSe5yKM3VA9Kf5asLc8H/ta/JJ+J2htXCrZaaO2xWWNc0Vf0GTBhnMm2mBRPq2w6Bw=="/>
-        </item>
-        <item>
-            <title>0.14.2</title>
-            <pubDate>Tue, 29 Sep 2026 01:18:53 +0200</pubDate>
-            <link>https://listenr.live</link>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.14.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/TheClosedLoopCompany/listenr-releases/releases/download/v0.14.2/Listenr-0.14.2.zip" length="57750795" type="application/octet-stream" sparkle:edSignature="87kXE3JikQcHTATP/l2EW/TP2l/uUlm82Z8whsnPEcq2UWWh/uZE8K58hF58YRa38jdMnWZpvKHzo79ilgt6Bw=="/>
         </item>
     </channel>
 </rss>
